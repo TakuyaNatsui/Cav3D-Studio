@@ -18,6 +18,7 @@
 | <img src="icons/export_step.svg" width="20" height="20"> | STEP 書き出し | ボディを名前付きの STEP で書き出します（CLI の emcad solve 用） |
 | <img src="icons/export_job.svg" width="20" height="20"> | job.json 書き出し | 解析設定を job.json で書き出します（CLI の emcad solve 用） |
 | <img src="icons/language.svg" width="20" height="20"> | 言語 ja/en | 表示の言語を日本語 / 英語で切り替えます |
+| <img src="icons/manual.svg" width="20" height="20"> | マニュアル | 操作マニュアルをブラウザで開きます（配布版はこのアプリのフォルダの docs\USER_MANUAL.html。見つからなければ配布ページのマニュアル） |
 
 ## モデリング
 
